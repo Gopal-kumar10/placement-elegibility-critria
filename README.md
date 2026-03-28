@@ -1,5 +1,5 @@
 # placement-elegibility-critria
- A modern UI design with soft gradients, smooth animations, rounded cards, and a minimal layout. [placement-eligibility-portal.zip](https://github.com/user-attachments/files/26324223/placement-eligibility-portal.zip)
+ A modern UI design with soft gradients, smooth animations, rounded cards, and a minimal layout.
 <!DOCTYPE html>
 <html lang="en">
 <head>
